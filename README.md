@@ -58,7 +58,7 @@ This generates the TailwindCSS `build.css` in the `src/css/build.css` folder.
 
 ## Project Status and Public Content:
 
-- Deployed Website: This project was released and deployed for a real client at Hostgator under the domain name/URL [https://agapemds.com/](agapemds.com).
+- Deployed Website: This project was released and deployed for a real client at Hostgator under the domain name/URL [agapemds.com](https://agapemds.com/).
 - Content Ownership: All content, including text, translations, images, and the primary color (organization logo color codes), was provided by the organization and remains their property.
 - Public Content Authorization: We hold explicit authorization from the client to showcase this repository, its code, publicly accessible organization content (provided and agreed upon), and images and/or videos relating to the current state of the project.
 - Visual Disparity: If the code in this repository diverges significantly from the deployed version's visual design, the public URL will be removed to maintain consistency and avoid misrepresentation.
@@ -67,4 +67,4 @@ This generates the TailwindCSS `build.css` in the `src/css/build.css` folder.
 
 - Project History: This project was completed on September 4, 2023 for a client before I officially started my software engineering career. While the file structure has been updated for clarity, the original code and approach from the initial project have been preserved. This project is intended as a showcase of my earlier web development work.
 - The included [PDFs](public/pdfs/) in the `public/pdfs` directory are for reference only. They may contain rendering artifacts (e.g., horizontal bars from page divisions) and do not fully reflect the current state of the web application. These serve as a visual timeline of the project’s progress.
-- Live Website: For the most accurate and interactive representation, please visit the deployed website at [https://agapemds.com/](agapemds.com).
+- Live Website: For the most accurate and interactive representation, please visit the deployed website at [agapemds.com](https://agapemds.com/).
