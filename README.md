@@ -66,5 +66,5 @@ This generates the TailwindCSS `build.css` in the `src/css/build.css` folder.
 ## Additional Notes:
 
 - Project History: This project was completed on September 4, 2023 for a client before I officially started my software engineering career. While the file structure has been updated for clarity, the original code and approach from the initial project have been preserved. This project is intended as a showcase of my earlier web development work.
-- The included [PDFs and Images](public/docs/) in the `public/docs` directory are for reference only. They may contain rendering artifacts (e.g., horizontal bars from page divisions) and do not fully reflect the current state of the web application. These serve as a visual timeline of the project’s progress.
+- The included [PDFs and Images](public/docs/) in the `public/docs` directory are for reference only. They may contain rendering artifacts (e.g., horizontal bars from page divisions, exaggerated shadows, etc.) and do not fully reflect the current state of the web application. These serve as a visual timeline of the project’s progress.
 - Live Website: For the most accurate and interactive representation, please visit the deployed website at [agapemds.com](https://agapemds.com/).
